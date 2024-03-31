@@ -18,19 +18,19 @@
 
 <br clear="both">
 
-<p align="center">Hey there! I'm [Your Name], a passionate backend developer with a knack for diving deep into the world of programming languages like C, Java, and Python. My journey in the tech realm has led me to explore the realms of hardware tinkering with Arduino and Raspberry Pi.</p>
+<p align="left">Hey there! I'm [Your Name], a passionate backend developer with a knack for diving deep into the world of programming languages like C, Java, and Python. My journey in the tech realm has led me to explore the realms of hardware tinkering with Arduino and Raspberry Pi.</p>
 
 ###
 
 <br clear="both">
 
-<p align="center">Currently, I'm deeply involved in two exciting projects for my academy:<br><br>Automating Greenhouses: Harnessing the power of technology to optimize greenhouse operations, ensuring efficient plant growth and sustainability.<br><br>Automating Signals: Leveraging my backend skills to automate signaling systems, streamlining processes and enhancing communication efficiency.</p>
+<p align="left">Currently, I'm deeply involved in two exciting projects for my academy:<br><br>Automating Greenhouses: Harnessing the power of technology to optimize greenhouse operations, ensuring efficient plant growth and sustainability.<br><br>Automating Signals: Leveraging my backend skills to automate signaling systems, streamlining processes and enhancing communication efficiency.</p>
 
 ###
 
 <br clear="both">
 
-<p align="center">I thrive on challenges and am constantly seeking innovative solutions to real-world problems. Feel free to connect with me to discuss tech, share ideas, or collaborate on exciting projects!</p>
+<p align="left">I thrive on challenges and am constantly seeking innovative solutions to real-world problems. Feel free to connect with me to discuss tech, share ideas, or collaborate on exciting projects!</p>
 
 ###
 
