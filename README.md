@@ -1,12 +1,12 @@
 <br clear="both">
 
-<h1 align="center">Hey There 👋</h1>
+<h1 align="center">Hey There </h1>
 
 ###
 
 <br clear="both">
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">About Me</h3>
 
 ###
 
